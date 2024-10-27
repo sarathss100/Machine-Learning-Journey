@@ -1,0 +1,14 @@
+Day - 1
+
+For printing the output
+=> print("message")
+
+For taking input from user
+=> input("Question")
+
+Variable declaration
+name = "Hello"
+
+Count the length of a string 
+length = len("Hello")
+
