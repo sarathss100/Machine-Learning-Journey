@@ -12,3 +12,12 @@ name = "Hello"
 Count the length of a string 
 length = len("Hello")
 
+ Data Types 
+ => String => "Hello"
+ => Integer => 123
+ => Float => 10.23
+ => Boolean => True or False
+
+Subscripting
+
+print("Hello"[0]) => H
